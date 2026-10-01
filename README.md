@@ -31,4 +31,6 @@
 - https://developer.apple.com/app-store/review/guidelines/#privacy
 - https://www.apple.com/legal/internet-services/itunes/dev/stdeula/
 
-本网站无 JavaScript、Cookie、浏览器存储、分析脚本、外部字体或第三方前端依赖。托管服务商的访问日志处理仍可能适用。
+手机端目录位于顶部菜单栏右侧，点击展开，选择章节后自动收起；支持 Escape 和点击空白处关闭。
+
+本网站无 Cookie、浏览器存储、分析脚本、外部字体或第三方前端依赖。托管服务商的访问日志处理仍可能适用。
