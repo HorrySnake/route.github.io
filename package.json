@@ -1,0 +1,16 @@
+{
+  "name": "route-legal",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "nuxt dev",
+    "generate": "nuxt generate",
+    "postinstall": "nuxt prepare"
+  },
+  "dependencies": {
+    "@vueuse/core": "^15.0.0",
+    "better-sqlite3": "^12.11.1",
+    "docus": "latest",
+    "nuxt": "^4.4.8"
+  }
+}
